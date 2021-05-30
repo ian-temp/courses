@@ -1,0 +1,2 @@
+class CourseRate < ApplicationRecord
+end

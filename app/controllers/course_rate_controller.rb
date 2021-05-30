@@ -1,0 +1,2 @@
+class CourseRateController < ApplicationController
+end

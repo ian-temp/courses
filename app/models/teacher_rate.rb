@@ -1,0 +1,2 @@
+class TeacherRate < ApplicationRecord
+end
